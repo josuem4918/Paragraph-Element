@@ -1,2 +1,2 @@
 # Paragraph-element
-The basics of HTML on how to use the paragraph element.
+An introduction to HTML basics, focusing on how to use the paragraph element.
